@@ -27,3 +27,7 @@ The list of respondents to use to generate these transcripts are:
 - I could add sentiment instructions such as
   - "Reflect in the answers that the respondent starts the conversation in a nervous state and relaxes as the questions progress."
   - "Reflect in the answers that the respondent is upset at the company interviewing them and prefer long, ranting answers from this respondent that focus on software bugs, pain points, and rifts they have with support"
+
+# References
+
+Anthropic. (2023). Claude (Oct 8 version) [Large language model]. https://www.anthropic.com/
